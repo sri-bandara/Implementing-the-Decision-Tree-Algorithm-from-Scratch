@@ -12,7 +12,7 @@
 
 #### <span style="font-size: 18px; color: #000000; font-weight: bold;">Process</span>
 <p style="font-size: 15px; color: #333333;">
-    The code includes implementation of the compute entropy function, split dataset function, compute information gain function, get best split function and build tree recursive function. The algorihtm was tested on a dataset for evaluation.
+    The code includes implementation of the compute entropy function, split dataset function, compute information gain function, get best split function and build tree recursive function. The algorithm was tested on a dataset for evaluation.
 </p>
 
 #### <span style="font-size: 18px; color: #000000; font-weight: bold;">Acknowledgements</span>
